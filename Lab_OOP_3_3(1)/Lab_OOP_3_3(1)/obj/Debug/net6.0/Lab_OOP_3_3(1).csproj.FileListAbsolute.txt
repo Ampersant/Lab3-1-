@@ -1,0 +1,15 @@
+H:\PROJECTS\Lab_OOP_3_3(1)\Lab_OOP_3_3(1)\bin\Debug\net6.0\Lab_OOP_3_3(1).exe
+H:\PROJECTS\Lab_OOP_3_3(1)\Lab_OOP_3_3(1)\bin\Debug\net6.0\Lab_OOP_3_3(1).deps.json
+H:\PROJECTS\Lab_OOP_3_3(1)\Lab_OOP_3_3(1)\bin\Debug\net6.0\Lab_OOP_3_3(1).runtimeconfig.json
+H:\PROJECTS\Lab_OOP_3_3(1)\Lab_OOP_3_3(1)\bin\Debug\net6.0\Lab_OOP_3_3(1).dll
+H:\PROJECTS\Lab_OOP_3_3(1)\Lab_OOP_3_3(1)\bin\Debug\net6.0\Lab_OOP_3_3(1).pdb
+H:\PROJECTS\Lab_OOP_3_3(1)\Lab_OOP_3_3(1)\obj\Debug\net6.0\Lab_OOP_3_3(1).csproj.AssemblyReference.cache
+H:\PROJECTS\Lab_OOP_3_3(1)\Lab_OOP_3_3(1)\obj\Debug\net6.0\Lab_OOP_3_3(1).GeneratedMSBuildEditorConfig.editorconfig
+H:\PROJECTS\Lab_OOP_3_3(1)\Lab_OOP_3_3(1)\obj\Debug\net6.0\Lab_OOP_3_3(1).AssemblyInfoInputs.cache
+H:\PROJECTS\Lab_OOP_3_3(1)\Lab_OOP_3_3(1)\obj\Debug\net6.0\Lab_OOP_3_3(1).AssemblyInfo.cs
+H:\PROJECTS\Lab_OOP_3_3(1)\Lab_OOP_3_3(1)\obj\Debug\net6.0\Lab_OOP_3_3(1).csproj.CoreCompileInputs.cache
+H:\PROJECTS\Lab_OOP_3_3(1)\Lab_OOP_3_3(1)\obj\Debug\net6.0\Lab_OOP_3_3(1).dll
+H:\PROJECTS\Lab_OOP_3_3(1)\Lab_OOP_3_3(1)\obj\Debug\net6.0\refint\Lab_OOP_3_3(1).dll
+H:\PROJECTS\Lab_OOP_3_3(1)\Lab_OOP_3_3(1)\obj\Debug\net6.0\Lab_OOP_3_3(1).pdb
+H:\PROJECTS\Lab_OOP_3_3(1)\Lab_OOP_3_3(1)\obj\Debug\net6.0\Lab_OOP_3_3(1).genruntimeconfig.cache
+H:\PROJECTS\Lab_OOP_3_3(1)\Lab_OOP_3_3(1)\obj\Debug\net6.0\ref\Lab_OOP_3_3(1).dll

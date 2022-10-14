@@ -1,0 +1,23 @@
+[
+  {
+    "a": 1,
+    "b": 2,
+    "borderColor": "black",
+    "fillColor": "none",
+    "h": 3
+  },
+  {
+    "a": 3,
+    "b": 4,
+    "borderColor": "White",
+    "fillColor": "Black",
+    "h": 2
+  },
+  {
+    "a": 1,
+    "b": 1.5,
+    "borderColor": "Yellow",
+    "fillColor": "Green",
+    "h": 3
+  }
+]
